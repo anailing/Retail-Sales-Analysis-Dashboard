@@ -19,7 +19,7 @@ The dashboard is designed to help business leaders quickly monitor performance t
 
 ## Dashboard Preview
 
-![Retail Sales Dashboard](dashboards/retail-sales-dashboard.png)
+![Retail Sales Dashboard](dashboards/retail_sales_dashboard.png)
 
 ---
 
